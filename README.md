@@ -18,8 +18,8 @@ The raylib library (you can download it from https://www.raylib.com/)
 ## Installation
 To install Dapper Dasher, simply follow these steps:
 
-1- Download the source code from the repository
-2- Compile the code using your C+ compiler
+1- Download the source code from the repository.
+2- Compile the code using your C+ compiler.
 3- Run the game!
 
 ## Conclusion
