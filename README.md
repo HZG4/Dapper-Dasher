@@ -12,7 +12,9 @@ Dapper Dasher is written in pure C+ using the raylib.h library. This library pro
 To play Dapper Dasher, you will need:
 
 A computer with Windows, macOS, or Linux
+
 A C+ compiler (such as GCC or Clang)
+
 The raylib library (you can download it from https://www.raylib.com/)
 
 ## Installation
